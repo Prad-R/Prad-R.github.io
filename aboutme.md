@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A little bit about myself
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Pradyumnan, and I often go by Prad (pronounced 'Brad', but with a P).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My Interests
 
-What else do you need?
+- Math
+- Classical Music (I am a trained violinist)
+- Formula 1 (Go Leclerc and Verstappen)
+- Anime (AoT, Demon Slayer, Naruto, Horimiya, etc.)
+- History of Science and Math
+- Basketball (Go Warriors and Steph)
+- Chess
+- Watching random informative videos online
 
-### My story
+I do have a lot more interests, feel free to reach out to me about any of my interests.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Childhood and Education
+
+I was born in Chennai, India and was raised there for most of my life. From my childhood, I have been fascinated by math and engineering (I did a lot of Legos). I did my schooling at BVM Global Bollineni Hillside Senior Secondary School. and my undergraduate education in the **Indian Institute of Technology Madras**. My major is in **Aerospace Engineering and Data Science**.
