@@ -22,8 +22,9 @@ author: Pradyumnan Raghuveeran
 navbar-links:
   Home: "index"
   About Me: "aboutme"
-  My Work: "work"
+  My Work: "work_dir/work"
   Academics: "academics"
+  CV: "cv"
 
 ################
 # --- Logo --- #

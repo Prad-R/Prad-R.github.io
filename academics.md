@@ -7,10 +7,10 @@ subtitle: Relevant Coursework & Teaching Assistantships
 The courses listed below are NOT an exhaustive list, but they cover a few important courses. 
 
 - Bolded course codes (**XX1234**) indicate that I secured the highest possible grade 
-- Single starred course codes (XX1234*) indicate _ongoing_ courses as of     2025
-- Double starred course codees (XX1234**) indicate _audited_ courses.
+- Single starred course codes (XX1234*) indicate _ongoing_ courses as of 2025
+- Double starred course codes (XX1234**) indicate _audited_ courses.
 
-Please contact me via email for my Grade Point Average.
+The following summarizes my teaching and relevant academic experience.
 
 ### Teaching Assistantships
 
@@ -26,7 +26,7 @@ Please contact me via email for my Grade Point Average.
 - Systems Engineering for Deep Learning (CS6886*)
 - Data Analytics Laboratory (DA5401*)
 - Foundations of Computational Fluid Dynamics (AM5630*)
-- Data Driven Modelling of Aerospace Systems and Complex FLuid Flows (AS5401*)
+- Data Driven Modeling of Aerospace Systems and Complex FLuid Flows (AS5401*)
 
 ### Mathematics Courses
 
@@ -56,3 +56,7 @@ Please contact me via email for my Grade Point Average.
 - Accounting and Finance (**MS3610**)
 - Life Sciences (**BT1010**)
 - German (HS1090*)
+
+---
+
+<sub>Last updated: October 2025</sub>
