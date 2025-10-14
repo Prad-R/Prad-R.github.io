@@ -20,8 +20,10 @@ author: Pradyumnan Raghuveeran
 ###############################################
 
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
   My Work: "work"
+  Academics: "academics"
 
 ################
 # --- Logo --- #
