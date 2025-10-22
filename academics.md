@@ -26,7 +26,7 @@ The following summarizes my teaching and relevant academic experience.
 - Systems Engineering for Deep Learning (CS6886*)
 - Data Analytics Laboratory (DA5401*)
 - Foundations of Computational Fluid Dynamics (AM5630*)
-- Data Driven Modeling of Aerospace Systems and Complex FLuid Flows (AS5401*)
+- Data Driven Modeling of Aerospace Systems and Complex Fluid Flows (AS5401*)
 
 ### Mathematics Courses
 
