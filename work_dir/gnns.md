@@ -11,8 +11,8 @@ I used ISRO's GSMaP satellite dataset for the task at hand. The model allows us 
 - Plan water management for floods and droughts well in advance
 - Identify optimal locations to build raingauge stations with minimal cost
 
-<img src="/assets/img/rainfall_variability.pdf" 
-     alt="Rainfall Variability in India" 
-     style="display: block; margin: 0 auto; width: 80%; max-width: 500px;">
+<iframe src="/assets/img/rainfall_variability.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it.
+</iframe>
 
 In the above picture, we can see the variation of rainfall across mainland India. By identifying the various zones of variances, models can be trained better to yield better results across the country for minimal training.
