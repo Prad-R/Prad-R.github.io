@@ -6,9 +6,8 @@ subtitle: Relevant Coursework & Teaching Assistantships
 
 The courses listed below are NOT an exhaustive list, but they cover a few important courses. 
 
-- Bolded course codes (**XX1234**) indicate that I secured the highest possible grade 
-- Single starred course codes (XX1234*) indicate _ongoing_ courses as of 2025
-- Double starred course codes (XX1234**) indicate _audited_ courses.
+- Bolded course codes (**XX1234**) indicate that I secured the highest possible grade
+- Double starred course codes (XX1234*) indicate _audited_ courses.
 
 The following summarizes my teaching and relevant academic experience.
 
@@ -21,12 +20,12 @@ The following summarizes my teaching and relevant academic experience.
 
 - Introduction to Scientific Computing (**ID2090**)
 - Algorithms in Computational Geometry (**ED5310**)
-- Foundations of Machine Learning (DA5400**)
+- Foundations of Machine Learning (DA5400*)
 - Machine Learning Practice (**OB2208**)
-- Systems Engineering for Deep Learning (CS6886*)
-- Data Analytics Laboratory (DA5401*)
-- Foundations of Computational Fluid Dynamics (AM5630*)
-- Data Driven Modeling of Aerospace Systems and Complex Fluid Flows (AS5401*)
+- Systems Engineering for Deep Learning (CS6886)
+- Data Analytics Laboratory (**DA5401**)
+- Foundations of Computational Fluid Dynamics (**AM5630**)
+- Data Driven Modeling of Aerospace Systems and Complex Fluid Flows (AS5401)
 
 ### Mathematics Courses
 
@@ -48,15 +47,17 @@ The following summarizes my teaching and relevant academic experience.
 - Aerospace Propulsion (**AS3270** & AS3271)
 - Flight Dynamics (**AS2040** & **AS3050**)
 - Design of Subsonic Aircraft (**AS5211**)
+- Unsteady Aerodynamics of Moving Bodies (**AS5470**)
 
 ### Some Interesting Electives
 
+- Analog Systems Lab (EE2707)
 - Signals and Systems (**EE1101**)
 - Principles of Economics (**HS3002A**)
 - Accounting and Finance (**MS3610**)
 - Life Sciences (**BT1010**)
-- German (HS1090*)
+- German (**HS1090** & HS1100)
 
 ---
 
-<sub>Last updated: October 2025</sub>
+<sub>Last updated: July 2026</sub>
