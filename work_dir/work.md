@@ -11,7 +11,7 @@ Some of my favorite projects are listed below:
   Developed a GNN architecture to model spatio-temporal rainfall patterns over India using GSMaP ISRO satellite data.
 - <a href="/work_dir/vd">Adaptive Sampling Approach for Voronoi Diagrams of 3D Spheres</a>  
   Proposed and implemented a computationally efficient method for constructing 3D Voronoi diagrams with non-uniform sampling.
-- <a href="/work_dir/fuel_sloshing">FNOs for Predicting Fuel Sloshing</a>
+- <a href="/work_dir/fuel_sloshing">FNOs for Predicting Fuel Sloshing</a>  
   Developed a FNO model to predict fule sloshing fields in real-time for space based applications.
 - <a href="/work_dir/diceforge">DiceForge: A PRNG in C++</a>  
   Designed a state-of-the-art pseudorandom number generator with appropriate statistical validation.
