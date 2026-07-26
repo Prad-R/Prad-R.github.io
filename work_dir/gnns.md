@@ -11,7 +11,7 @@ I used ISRO's GSMaP satellite dataset for the task at hand. The model allows us 
 - Plan water management for floods and droughts well in advance
 - Identify optimal locations to build raingauge stations with minimal cost
 
-<iframe src="/assets/img/rainfall_variability.pdf" width="100%" height="600px">
+<iframe src="/assets/img/rainfall_variability.pdf#toolbar=0" width="100%" height="600px" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it.
 </iframe>
 
