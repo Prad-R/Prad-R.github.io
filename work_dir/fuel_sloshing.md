@@ -11,4 +11,4 @@ Developed a Fourier Neural Operator to predict the flow field of fuels sloshing 
   Your browser does not support the video tag.
 </video>
 
-The above video compares the true variation of the axial velocity with the predicted flow field under a rectangular pulse loading condition. The <a href="https://github.com/rahulak-cs-iitm/cs6886-jul-nov-2025-course-project-rephino">GitHub Repository containing the project code and results is linked.
+The above video compares the true variation of the axial velocity with the predicted flow field under a rectangular pulse loading condition. The <a href="https://github.com/rahulak-cs-iitm/cs6886-jul-nov-2025-course-project-rephino">GitHub Repository</a> containing the project code and results is linked.
