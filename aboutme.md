@@ -10,6 +10,7 @@ My name is Pradyumnan, and I often go by Prad (pronounced 'Brad', but with a P).
 
 - Math
 - Electronics
+- Teaching
 - Classical Music (I am a trained violinist)
 - Formula 1 (Go Leclerc and Verstappen)
 - Anime (AoT, Demon Slayer, Naruto, Horimiya, etc.)
