@@ -10,10 +10,16 @@
 ############################
 
 # Name of website
-title: Prad's Website
+title: Pradyumnan Raghuveeran
+
+# Description of website
+description: "Pradyumnan Raghuveeran - Graduate student and portfolio"
 
 # Your name to show in the footer
 author: Pradyumnan Raghuveeran
+
+# URL
+url: prad-r.github.io
 
 ###############################################
 # --- List of links in the navigation bar --- #
